@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tommy Li&#39;s Blog</title>
+  
+  <subtitle>Life is a laugh-tale.</subtitle>
+  <link href="/li-hanzhao.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://li-hanzhao.github.io/"/>
+  <updated>2020-01-07T05:52:42.000Z</updated>
+  <id>http://li-hanzhao.github.io/</id>
+  
+  <author>
+    <name>Li Hanzhao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于我</title>
+    <link href="http://li-hanzhao.github.io/2020/01/06/%E6%97%A5%E5%BF%971/"/>
+    <id>http://li-hanzhao.github.io/2020/01/06/%E6%97%A5%E5%BF%971/</id>
+    <published>2020-01-07T05:37:24.000Z</published>
+    <updated>2020-01-07T05:52:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>咖啡一定要苦，茶一定要甜</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;咖啡一定要苦，茶一定要甜&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>再要你命3000gre单词 Excel version</title>
+    <link href="http://li-hanzhao.github.io/2020/01/04/Excel%20GRE%E5%8D%95%E8%AF%8D/"/>
+    <id>http://li-hanzhao.github.io/2020/01/04/Excel%20GRE%E5%8D%95%E8%AF%8D/</id>
+    <published>2020-01-05T01:12:07.000Z</published>
+    <updated>2020-01-07T05:48:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> 再要你命3000单词 </p><ul><li>这几天找的最好用的版本，带计数功能，某个仙女做的，等我再完善下</li><li>链接: <a href="https://pan.baidu.com/s/1bxapVTIQ97nR1YZJcAzc-Q" target="_blank" rel="noopener">https://pan.baidu.com/s/1bxapVTIQ97nR1YZJcAzc-Q</a> </li><li>提取码: gdtz</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; 再要你命3000单词 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这几天找的最好用的版本，带计数功能，某个仙女做的，等我再完善下&lt;/li&gt;
+&lt;li&gt;链接: &lt;a href=&quot;https://pan.baidu.com/s/1bxapVTIQ97nR1YZJcAzc-Q&quot; target=&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="GRE" scheme="http://li-hanzhao.github.io/categories/GRE/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>今日份购物清单</title>
+    <link href="http://li-hanzhao.github.io/2020/01/04/%E4%B9%B0%E8%8F%9C1.4.2020/"/>
+    <id>http://li-hanzhao.github.io/2020/01/04/%E4%B9%B0%E8%8F%9C1.4.2020/</id>
+    <published>2020-01-04T21:01:24.000Z</published>
+    <updated>2020-01-07T03:56:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> 试一下.md格式</p><ul><li>芝麻</li><li>芦笋 四季豆 包菜 西红柿</li><li>牛肉</li><li>培根</li><li>面包🍞</li><li>煎饺</li><li>果汁</li><li>纯净水</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; 试一下.md格式&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;芝麻&lt;/li&gt;
+&lt;li&gt;芦笋 四季豆 包菜 西红柿&lt;/li&gt;
+&lt;li&gt;牛肉&lt;/li&gt;
+&lt;li&gt;培根&lt;/li&gt;
+&lt;li&gt;面包🍞&lt;/li&gt;
+&lt;li&gt;煎饺&lt;/li&gt;
+&lt;li&gt;果汁&lt;/li&gt;
+&lt;li&gt;纯净水&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="浮躁日记 Joy Diary" scheme="http://li-hanzhao.github.io/categories/%E6%B5%AE%E8%BA%81%E6%97%A5%E8%AE%B0-Joy-Diary/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>开发.md的人太有才了</title>
+    <link href="http://li-hanzhao.github.io/2020/01/02/Studying%20Makes%20Me%20Happy/"/>
+    <id>http://li-hanzhao.github.io/2020/01/02/Studying%20Makes%20Me%20Happy/</id>
+    <published>2020-01-03T01:31:14.000Z</published>
+    <updated>2020-01-07T05:33:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>- 啥也没有先空着   - 有空就做一会儿</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code&gt;- 啥也没有先空着
+   - 有空就做一会儿&lt;/code&gt;&lt;/pre&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="浮躁日记 Joy Diary" scheme="http://li-hanzhao.github.io/categories/%E6%B5%AE%E8%BA%81%E6%97%A5%E8%AE%B0-Joy-Diary/"/>
+    
+      <category term="Tools" scheme="http://li-hanzhao.github.io/categories/Tools/"/>
+    
+    
+  </entry>
+  
+</feed>
