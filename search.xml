@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>关于我</title>
+    <title>浮躁日记 Joy Diary I</title>
+    <url>/2020/01/07/Spring-2020/</url>
+    <content><![CDATA[<p>&#160;&#160;&#160;这可能是我第一篇好好写的blog，理由是明天就要开学&amp;阐述下建个站的原因。<br>&#160;&#160;&#160;先说建立这个Blog的原因，本来计划在这个winter break从零开始学习备考GRE，结果背单词背到昏厥阅读几乎全错，信心和精神倍受打击。猛然想起似乎每一位老师都说过，学累了就换换脑子，不能总看一门，于是乎打算换换口味，遂刷github和知乎无意中刷到建立个站的方法, 真香啊。另外，综合考虑了一下相对严肃的个人网站以后可能还有别的用处，非web空间pyq之流，就一鼓作气从元旦做到现在。<br>&#160;&#160;&#160;明天就是新学期的开始，都说一年之计在于春，天朝传统文化被美帝贯彻落实得属实到位（1月可能不算春季🤭）。说实话我完全没有做好准备，一晃眼来美国已经半年，马上就要第二个学期，刚刚过去的秋季学期成绩也不太理想，学习和生活节奏也不过刚刚适应，说真的，这些日子一想到明天开学，只能用心慌来形容。<br>&#160;&#160;&#160;下学期暂时选了五门课，只会比这多不会少，其中至少有三门都是大佬们口中“保个B就不错了”的课程，微笑。生活还得继续，不过好在我是个几乎不相信客观世界存在的人，我的底线是下学期一个B，争取全A，为此必须立如下几个Flag：</p>
+<ul>
+<li>只在同时满足以下三种情况下才玩游戏：1. 周五晚、周六晚 2. 朋友叫你一起 3. 已达成每日任务</li>
+<li>每周至少25小时，平均下来工作日日至少3h/d, 学习和准备GRE考试（这条比较难，争取, 关于gre会另外在再开个文章）</li>
+<li>除project or 实验数据未出以外，已下发的assignment，homework，etc.两日内搞定。</li>
+<li>当日没搞懂的，尤其是笔记上没搞懂的，没记全的，一定要当天搞明白。</li>
+</ul>
+<p>&#160;&#160;&#160;至于上述flag原因，主要针对我个人的三个致命缺陷：拖延症严重、对自己要求太低、干活效率太低。马上都23了，已经奔三了，必须做出一些改变。哎，刚才写下这些东西的时候脑子里还再想这些没必要写，以后再写吧哈哈哈，无耻如斯，真是愧对自己。<br>p.s. 别忘了把上学期最垃圾那门成绩单打出来挂墙上</p>
+]]></content>
+      <categories>
+        <category>集思录Think Different</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>咖啡因</title>
     <url>/2020/01/06/%E6%97%A5%E5%BF%971/</url>
     <content><![CDATA[<p>咖啡一定要苦，茶一定要甜</p>
 ]]></content>
+      <categories>
+        <category>Life Side</category>
+      </categories>
   </entry>
   <entry>
     <title>再要你命3000gre单词 Excel version</title>
@@ -36,7 +55,7 @@
 </ul>
 ]]></content>
       <categories>
-        <category>浮躁日记 Joy Diary</category>
+        <category>集思录Think Different</category>
       </categories>
   </entry>
   <entry>
@@ -45,8 +64,8 @@
     <content><![CDATA[<pre><code>- 啥也没有先空着
    - 有空就做一会儿</code></pre>]]></content>
       <categories>
-        <category>浮躁日记 Joy Diary</category>
-        <category>Tools</category>
+        <category>集思录Think Different</category>
+        <category>Life Side</category>
       </categories>
   </entry>
 </search>
